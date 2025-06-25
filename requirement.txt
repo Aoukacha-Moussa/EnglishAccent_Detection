@@ -1,0 +1,7 @@
+yt-dlp>=2023.3.4
+moviepy>=1.0.3
+imageio-ffmpeg>=0.4.7
+openai-whisper>=20230314
+librosa>=0.10.0
+numpy>=1.20.0
+scipy>=1.7.0
