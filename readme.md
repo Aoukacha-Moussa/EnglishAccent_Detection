@@ -56,5 +56,5 @@ The system consists of three main components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aoukacha-Moussa/english_accent_detection.git
-   cd english_accent_detection
+   git clone https://github.com/Aoukacha-Moussa/englishaccent_detection.git
+   cd englishaccent_detection
